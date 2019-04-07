@@ -13,7 +13,7 @@ function BoardMember(name, homeState, training){
     return "You can do that!";
   }
   }
-  this.approve = function(){
+  this.releasePressStatement = function(){
     return "You will see great things from Scuber.";
   }
   this.sayHi = function(){
